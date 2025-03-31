@@ -23,8 +23,8 @@
 
 ### Trabajos realizados (“Qué hemos hecho, la realización del proyecto en sí”)
 
--En las primeras 2 semanas lo que he hecho es crear el proyecto con su estructura:
-  -Creacion de login,registro,inicio,logout,menu,seleccion del equipo,tabla de la liga,formacion de los equipos,eliminar la temporada entre eso pues las vistas urls,html,css,js y tambien he precargado los equipos,logros
+- En las primeras 2 semanas lo que he hecho es crear el proyecto con su estructura:
+  - Creacion de login,registro,inicio,logout,menu,seleccion del equipo,tabla de la liga,formacion de los equipos,eliminar la temporada entre eso pues las vistas urls,html,css,js y tambien he precargado los equipos,logros
   
 ### Problemas encontrados (“Problemas e incidencias durante la realización”)
 - He tenido ciertos problemas en cuando a las vistas de eliminar la temporada y la formacion del equipo entre otras muschas cosas
