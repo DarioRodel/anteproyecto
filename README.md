@@ -20,3 +20,20 @@
 ### Planificación (“Cómo voy a hacerlo, cuánto tiempo creo que tardaré”)
 
 - Intentare realizarlo en el tiempo de mas o menos 2 meses y medio para poder perfeccionarlo lo maximo posible para que sea muy interactivo y tenga muchas funcionalidades
+
+### Trabajos realizados (“Qué hemos hecho, la realización del proyecto en sí”)
+
+-En las primeras 2 semanas lo que he hecho es crear el proyecto con su estructura:
+  -Creacion de login,registro,inicio,logout,menu,seleccion del equipo,tabla de la liga,formacion de los equipos,eliminar la temporada entre eso pues las vistas urls,html,css,js y tambien he precargado los equipos,logros
+  
+### Problemas encontrados (“Problemas e incidencias durante la realización”)
+- He tenido ciertos problemas en cuando a las vistas de eliminar la temporada y la formacion del equipo entre otras muschas cosas
+
+### Modificaciones sobre el proyecto plantado inicialmente (“Si no hemos realizado todo lo planificado”)
+- Mas o menos no he modificado nada a lo mejor añadir alguna cosa
+
+### Posibles mejoras al proyecto (“Posibles mejoras futuras”)
+- Mejorar el menu su estructura esta un poco rara,tambien la formacion que estoy en ello que hay algunas cosas que modificar
+
+### Bibliografía (“Si es posible con enlace a la fuente”)
+- https://chat.deepseek.com/ , https://www.w3schools.com/ , https://openai.com/index/chatgpt/
