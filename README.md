@@ -25,6 +25,10 @@
 
 - En las primeras 2 semanas lo que he hecho es crear el proyecto con su estructura:
   - Creacion de login,registro,inicio,logout,menu,seleccion del equipo,tabla de la liga,formacion de los equipos,eliminar la temporada entre eso pues las vistas urls,html,css,js y tambien he precargado los equipos,logros
+- En las siguientes 2 semanas he perfeccionado algunas cosas:
+  -He perfeccionado un poco la mayoria de cosas que habia creado en las primeras 2 semanas aparte implemente nuevas funciones como simular partido con todas sus cosas y tambien he precargado jugadores, me lleve la mayor parte implementando la cracion de la formacion del equipo con sus distintas alineaciones y para que se vea todo bien
+- En las siguientes 2 semanas he perfeccionado otras cosas:
+  - Solucion de distintos errores y de la manera de precargar algunas cosas tambien he hecho que distintas funcionalidades de la app se comporten diferente y he estado mucho tiempo con la implementacion de unificar la simulacion de partidos con la tabla de la liga para que se actualize solo
   
 ### Problemas encontrados (“Problemas e incidencias durante la realización”)
 - He tenido ciertos problemas en cuando a las vistas de eliminar la temporada y la formacion del equipo entre otras muschas cosas
